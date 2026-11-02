@@ -216,3 +216,7 @@ a:hover { color: var(--navy); }
 @media (max-width: 560px) { .lib-filters select, .lib-filters label:not(.lib-search) { flex: 1 1 100%; } .lib-filters select { min-width: 0; } }
 .site-nav ul { flex-wrap: wrap; row-gap: .4rem; }
 .site-nav a { white-space: nowrap; }
+
+.lib-kind { display: block; width: max-content; margin-bottom: .3rem; padding: .1rem .5rem; border-radius: 999px; font-size: .72rem; font-weight: 700; letter-spacing: .03em; white-space: nowrap; }
+.lib-kind-by { background: #e3f1ef; color: #0d5c55; }
+.lib-kind-about { background: #eef0f4; color: #4a5568; }

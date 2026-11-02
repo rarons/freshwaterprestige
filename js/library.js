@@ -3,16 +3,16 @@
   var form = document.querySelector('.lib-filters'); form.hidden = false;
   form.addEventListener('submit', function (e) { e.preventDefault(); });
   var tbody = table.tBodies[0], rows = Array.prototype.slice.call(tbody.rows);
-  var fb = document.getElementById('f-bucket'), fs = document.getElementById('f-side'), fq = document.getElementById('f-q'), cnt = document.getElementById('lib-count');
+  var fb = document.getElementById('f-bucket'), fs = document.getElementById('f-side'), fq = document.getElementById('f-q'), cnt = document.getElementById('lib-count'), fk = document.getElementById('f-kind');
   function apply() {
-    var b = fb.value, s = fs.value, q = fq.value.trim().toLowerCase(), n = 0;
+    var b = fb.value, s = fs.value, k = fk.value, q = fq.value.trim().toLowerCase(), n = 0;
     rows.forEach(function (r) {
-      var ok = (!b || r.dataset.bucket === b) && (!s || r.dataset.side === s) && (!q || r.textContent.toLowerCase().indexOf(q) > -1);
+      var ok = (!b || r.dataset.bucket === b) && (!s || r.dataset.side === s) && (!k || r.dataset.kind === k) && (!q || r.textContent.toLowerCase().indexOf(q) > -1);
       r.hidden = !ok; if (ok) n++;
     });
     cnt.textContent = n + (n === 1 ? ' document' : ' documents') + (n === rows.length ? '' : ' of ' + rows.length);
   }
-  [fb, fs].forEach(function (el) { el.addEventListener('change', apply); }); fq.addEventListener('input', apply);
+  [fb, fs, fk].forEach(function (el) { el.addEventListener('change', apply); }); fq.addEventListener('input', apply);
   var ths = table.tHead.rows[0].cells;
   Array.prototype.forEach.call(ths, function (th, i) {
     if (th.hasAttribute('data-nosort')) return;
