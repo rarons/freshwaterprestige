@@ -2000,5 +2000,57 @@
   "Topics": "Labor markets",
   "Description": "Doc. 213 (Mar. 24, 2022) government request for Daubert hearing",
   "Source Link": "https://storage.courtlistener.com/recap/gov.uscourts.cod.208296/gov.uscourts.cod.208296.213.0.pdf"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "US ex rel. Miller v. Bill Harbert Int'l Construction (USAID Egypt sewer contracts)",
+  "Court/Docket": "D.C. Cir. Nos. 08-5390 et al. (from D.D.C. 1:95-cv-01231)",
+  "Year": "2010",
+  "Expert": "R. Preston McAfee",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Appellate opinion",
+  "Topics": "Bid rigging; False Claims Act; Daubert / admissibility",
+  "Description": "False Claims Act bid-rigging verdict; affirms admission of government economist's testimony on how bid-rigging cartels and auctions work (pp. 40-45)",
+  "Source Link": "https://media.cadc.uscourts.gov/opinions/docs/2010/06/08-5390-1251065.pdf"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "US ex rel. Bunk v. Birkart Globistics / Gosselin (ITGBL military moving contracts)",
+  "Court/Docket": "E.D. Va. 1:02-cv-01168",
+  "Year": "2014",
+  "Expert": "Robert C. Marshall",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Daubert opinion",
+  "Topics": "Bid rigging; False Claims Act; Damages; Regression",
+  "Description": "Post-trial opinion setting aside $33M FCA verdict; holds government economist's regression damages model should have been excluded under Daubert (Doc. 1364)",
+  "Source Link": "https://law.justia.com/cases/federal/district-courts/virginia/vaedce/1:2002cv01168/14691/1364/"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "United States v. Penn et al. (broiler chicken)",
+  "Court/Docket": "D. Colo. 1:20-cr-00152-PAB",
+  "Year": "2021",
+  "Expert": "Edward A. Snyder",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Daubert / motion in limine",
+  "Topics": "Bid rigging; Price fixing; Daubert / admissibility",
+  "Description": "Doc. 649 (Oct. 15, 2021) order on DOJ motion to exclude defense experts in criminal price-fixing and bid-rigging case; limits Snyder's testimony on economic indicia of bid rigging",
+  "Source Link": "https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_20-cr-00152/pdf/USCOURTS-cod-1_20-cr-00152-3.pdf"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "United States v. Dornsbach & Kamida (concrete contracting)",
+  "Court/Docket": "D. Minn. 0:22-cr-00048",
+  "Year": "2023",
+  "Expert": "Thomas J. Gorowsky",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Daubert / motion in limine",
+  "Topics": "Bid rigging; Daubert / admissibility",
+  "Description": "Doc. 311 (Apr. 28, 2023) order partly admitting defense accounting/economic expert's comparison of allegedly rigged vs. other bids; excludes price-reasonableness opinions",
+  "Source Link": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_22-cr-00048/pdf/USCOURTS-mnd-0_22-cr-00048-14.pdf"
  }
 ]
