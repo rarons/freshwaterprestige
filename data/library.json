@@ -2052,5 +2052,70 @@
   "Topics": "Bid rigging; Daubert / admissibility",
   "Description": "Doc. 311 (Apr. 28, 2023) order partly admitting defense accounting/economic expert's comparison of allegedly rigged vs. other bids; excludes price-reasonableness opinions",
   "Source Link": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_22-cr-00048/pdf/USCOURTS-mnd-0_22-cr-00048-14.pdf"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "Ohio ex rel. Montgomery v. Louis Trauth Dairy, Inc. (school milk)",
+  "Court/Docket": "S.D. Ohio No. C-1-93-553; 925 F. Supp. 1247",
+  "Year": "1996",
+  "Expert": "Robert H. Porter; Douglas Zona; James T. McClave",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Daubert opinion",
+  "Topics": "Bid rigging; Market allocation; Regression; Daubert / admissibility",
+  "Description": "Denies dairies' motion to exclude state's experts in school milk bid-rigging case; admits market share, incumbency, bid sequence, price-distance and econometric baseline analyses, but bars opinions that a conspiracy legally existed",
+  "Source Link": "https://openjurist.org/925/fsupp/1247/ohio-ex-rel-montgomery-v-louis-trauth-dairy-inc"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "Pennsylvania v. Milk Industry Management Corp. (Philadelphia school milk)",
+  "Court/Docket": "E.D. Pa. No. 91-7328; 812 F. Supp. 500",
+  "Year": "1992",
+  "Expert": "James T. McClave",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Summary judgment opinion",
+  "Topics": "Bid rigging; Damages; Regression",
+  "Description": "Denies summary judgment in school milk bid-rigging case; McClave's econometric estimate of a 14.2% overcharge ($892,653) raises a fact issue on injury and damages (he was told to assume the conspiracy)",
+  "Source Link": "https://openjurist.org/812/fsupp/500/pennsylvania-v-milk-industry-management-corp-1762373"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "City of Tuscaloosa v. Harcros Chemicals, Inc. (repackaged chlorine)",
+  "Court/Docket": "11th Cir. No. 95-6234; 158 F.3d 548",
+  "Year": "1998",
+  "Expert": "James T. McClave; Perry Garner",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Appellate opinion",
+  "Topics": "Bid rigging; Price fixing; Regression; Daubert / admissibility",
+  "Description": "Reverses wholesale exclusion of statistician's market share, incumbency, tie-bid and price data in municipal chlorine bid case; excludes his 'signal' and conspiracy characterizations, legal opinions and market shares skewed by out-of-market data",
+  "Source Link": "https://openjurist.org/158/f3d/548/city-of-tuscaloosa-v-harcros-chemicals-inc"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "United States v. Portsmouth Paving Corp. (Virginia highway paving)",
+  "Court/Docket": "4th Cir. No. 81-5157; 694 F.2d 312",
+  "Year": "1982",
+  "Expert": "David Parcell",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Appellate opinion",
+  "Topics": "Bid rigging; Daubert / admissibility",
+  "Description": "Criminal highway bid-rigging appeal; affirms exclusion of defense consulting economist's market-area analysis of bidding patterns as cumulative and unhelpful (with dissent)",
+  "Source Link": "https://law.resource.org/pub/us/case/reporter/F2/694/694.F2d.312.81-5157.html"
+ },
+ {
+  "Bucket": "Cartel / class actions",
+  "Case": "United States v. Young Brothers, Inc. (Texas highway contract)",
+  "Court/Docket": "5th Cir. No. 83-1174; 728 F.2d 682",
+  "Year": "1984",
+  "Expert": "Joe Wells",
+  "Affiliation": "",
+  "Side": "Court",
+  "Document Type": "Appellate opinion",
+  "Topics": "Bid rigging; Daubert / admissibility",
+  "Description": "Criminal highway bid-rigging appeal; affirms exclusion of defense accountant's opinion that the rigged bid was reasonable, as he lacked highway-estimating qualifications",
+  "Source Link": "https://law.resource.org/pub/us/case/reporter/F2/728/728.F2d.682.83-1174.html"
  }
 ]
